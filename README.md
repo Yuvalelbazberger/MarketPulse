@@ -8,5 +8,7 @@ The final output is an interactive Tableau dashboard that highlights top movers,
 
 **Tech stack:** Python (pandas), DuckDB/CSV, Tableau  
 **Output:** Daily market snapshot + interactive dashboard
+
+
 <img width="1440" height="900" alt="צילום מסך 5786-04-18 ב-14 36 48" src="https://github.com/user-attachments/assets/b859b433-ad4d-4e03-a299-332afef9e406" />
 
