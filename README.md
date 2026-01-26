@@ -11,5 +11,5 @@ The final output is an interactive Tableau dashboard that highlights top movers,
 
 
 
-<img width="1000" height="800" alt="Daily Market" src="https://github.com/user-attachments/assets/786e4154-c27e-43e4-8fbe-ea5c8bbe8ed4" />
+<img width="1000" height="800" alt="Daily Market" src="https://github.com/user-attachments/assets/b827e677-c74b-482b-ae80-395f26bb7c0a" />
 
